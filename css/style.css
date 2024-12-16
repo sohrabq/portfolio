@@ -802,8 +802,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #007BFF;
-  color: #0c0101;
+  background: #333333;
+  color: white;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
